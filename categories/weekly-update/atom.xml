@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - weekly-update</title>
+    <link rel="self" type="application/atom+xml" href="https://bellum-catilinae.github.io/categories/weekly-update/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://bellum-catilinae.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-24T00:00:00+00:00</updated>
+    <id>https://bellum-catilinae.github.io/categories/weekly-update/atom.xml</id>
+    <entry xml:lang="en">
+        <title>24&#x2F;11&#x2F;24</title>
+        <published>2024-11-24T00:00:00+00:00</published>
+        <updated>2024-11-24T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bellum-catilinae.github.io/post3/"/>
+        <id>https://bellum-catilinae.github.io/post3/</id>
+        
+        <summary type="html">&lt;p&gt;The week has been pretty quiet. The most interesting thing would be the ongoing transition from people from Twitter to Bluesky.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>17&#x2F;11&#x2F;24</title>
+        <published>2024-11-17T00:00:00+00:00</published>
+        <updated>2024-11-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bellum-catilinae.github.io/post2/"/>
+        <id>https://bellum-catilinae.github.io/post2/</id>
+        
+        <summary type="html">&lt;p&gt;This week has been the die down of the election frenzy and the rapid claim of causes for the failure of the Democrats in the US.
+In parts, it has been replaced by the righteous outrage over the first appointments of Trump.
+This, I do not think has had any effect on the beliefs of the people.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Beginning</title>
+        <published>2024-11-09T00:00:00+00:00</published>
+        <updated>2024-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bellum-catilinae.github.io/hello/"/>
+        <id>https://bellum-catilinae.github.io/hello/</id>
+        
+        <summary type="html">&lt;p&gt;The last week has been full of clear indications that the system in which &quot;western&quot; democracies have been functioning is failing.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
